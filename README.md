@@ -33,7 +33,7 @@ Install Git from [https://git-scm.com/downloads](https://git-scm.com/downloads).
 Then configure it:
 
 ```bash
-# Set your username (appears in commits)
+# Set your username (appears in commits)``nithishkumar
 git config --global user.name "Your Name"
 
 # Set your email (use GitHub email for linking)
@@ -41,7 +41,7 @@ git config --global user.email "your-email@example.com"
 
 # Check your configuration
 git config --list
-````
+``
 
 ---
 
